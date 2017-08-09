@@ -1,0 +1,162 @@
+.body{
+  margin: 0px;
+  padding: 0px;
+  background-color: #575757;
+  /*color: #565656;*/
+  color: black;
+}
+
+
+.header{
+  /*font-size: 28px;*/
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  padding: 2%;
+}
+
+.sec-hr{
+  border-style: none;
+  border-width: 0;
+  margin: 33px auto 63px;
+  background-color: #bbb;
+  width: 100px;
+  height: 5px;
+}
+
+/*Fonts*/
+.lato{
+  font-family: 'Lato', sans-serif;
+}
+
+.pt{
+  font-family: 'PT Sans', sans-serif;
+}
+/*Fonts*/
+
+/*section-2*/
+#section-2{
+  height: 1500px;
+  width: 100%px;
+  color: #565656;
+  font-family: 'PT Sans', sans-serif;
+  padding: 5%;
+}
+
+.section-2-p1{
+  /*font-size: 28px;*/
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  color: #575757;
+  line-height: 33px;
+  padding: 2%;
+}
+
+.section-2-p2{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  color: #575757
+  line-height: 33px;
+  padding: 2%;
+}
+
+#section-2-arrow{
+  color: #608c28;
+}
+
+
+.section-2-grey-cont{
+  height: 50vh;
+  position: relative;
+  top: 5px;
+}
+
+.section-2-grey{
+  height: 300px;
+  width: 450px;
+  background-color: #F2F2F2;
+  font-size: 18px;
+  line-height: 27px;
+  float: right;
+  top: 5%;
+  padding: 50px;
+  margin-right: 10%;
+  position: relative;
+}
+
+.section-2-grey h1{
+  color: #608c28;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.section-2-fin{
+  position: relative;
+  clear: both;
+  display: block;
+}
+/*section-2*/
+
+
+/*section-3*/
+.section-3{
+  font-size: 32px;
+  font-style: italic;
+  font-weight: normal;
+  font-family: sans-serif;
+  line-height: 38px;
+  background-image: url('http://www.piedpiper.com/app/themes/pied-piper/dist/images/providing.jpg');
+  background-size: cover;
+  position: relative;
+  color: #ffffff;
+  height: 70vh;
+}
+
+.section-3-word{
+  position: relative;
+  top: 50%;
+  text-align: center;
+}
+/*section-3*/
+
+/*section-4-text*/
+section-4-text-content{}
+section-4-img{}
+section-4-text{}
+
+#section-4-text h1{
+
+
+
+  color: #608c28;
+  line-height: 38px;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 34px;
+}
+
+#section-4-text h5{
+  color: #19703e;
+  line-height: 21px;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 18
+}
+
+#section-4-text p{
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  color: #383838;
+  line-height: 28px;
+}
+
+/*section-4-text*/
+
+
+
+}
